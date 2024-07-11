@@ -24,8 +24,10 @@ Thaddeus Stone, İskoçya'nın derin ormanlarında gizemli bir mağaraya giren v
 - ***RPG sunucuları***
 
 ## Product Backlog URL
+https://trello.com/b/gmwf2keU
 
 ---
+
 # Sprint 1
 
 - **Sprint Notları**: 300 üzerinden değerlendirildi.
@@ -34,6 +36,30 @@ Thaddeus Stone, İskoçya'nın derin ormanlarında gizemli bir mağaraya giren v
 
 - **Daily Scrum**: İletişim Discord üzerinden sağlanmıştır. Burada dört metin kanalı kurulmuştur.
 
+![Ekran görüntüsü 2024-07-11 022902](https://github.com/Ciaodar/OUA-Bootcamp/assets/154469323/fb04d0fd-fd2b-4f38-90fc-2f5709fe1539)
 
+- **Sprint Board Güncellemesi**: Sprint Board Ekran Görüntüleri
 
+  ![Ekran görüntüsü 2024-07-11 031501](https://github.com/Ciaodar/OUA-Bootcamp/assets/154469323/be361e07-010f-4e0a-a42b-a199bea30947)
+
+- **Sprint Review**:
+  - Oyunun hikayesi ve kullanılacak mekaniklere karar verilmiştir.
+  - Sprint Review Katılımcıları: Merve Ekici, Mehmet Ali Canbal, Mert Yaşar Barlak, Metehan Çavdar
+- **Sprint Retrospective**:
+  - Takım içinde tekrar görev dağılımı yapılmalıdır. Ekip üyelerinin görev ve sorumlulukları netleştirilmeli.
+  - Toplantı günleri ve saati için ortak bir zaman dilimi belirlenmelidir.
+  - Kısa ve etkili ara toplantılar yapılmalıdır.
+  - Tasarım ve kodlama aşamasına geçiş hızlandırılmalı.
+
+- **Diğer Notlar**:
+  - N/A
+
+  ---
+
+  # Sprint 2
+
+  ---
+
+  # Sprint 3
+  
 
