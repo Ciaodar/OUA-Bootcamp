@@ -58,6 +58,39 @@ https://trello.com/b/gmwf2keU
 
   # Sprint 2
 
+- **Sprint Notları**: Ekip içerinde etkili iletişim ve iş birliği sağlanamıyor. Toplantıların iptal edilmesi ve bilgi paylaşmının eksik yapılmasından kaynaklı hedeflerin yarım kalıyor. Bu sprint sonunda alınan puan 180
+ 
+- **Daily Scrum**: Daily Scrum toplantıları Discord üzerinden devam etmiştir. Görev dağılımları net olarak belirlenmiştir. Haftada iki gün yapılan bu toplantılarda oyun mantığı, mekanikler ve tasarım üzerine odaklanılmıştır. Ücretsiz varlıkların (assets) kullanımına karar verilmiş ve bu varlıkların oyunun hikayesine uyumlu olup olmadığına dikkat edilerek seçilmiştir. Seçilen assetsler için dicorda kanal oluşturuldu. Kod yazma süreci başlamıştır.
+
+[dailyscrumchats.pdf](https://github.com/user-attachments/files/16325718/dailyscrumchats.pdf)
+
+- **Sprint 2 Board Güncellemesi**:
+
+- **Sprint Review**:
+ - Takım üyelerine görev dağılımı yapılmıştır.
+ - Oyun hikayesi tamamen tamamlandı. Hikaye tüm takım üyeleri tarafından onaylanmıştır.
+ - Oyun için gerekli tüm ana mekaniklere karar verilmiş.
+ - Oyunun kod yazma süreci başlamıştır. Belirli oyun mekanikleri ve kodlanmış ve test edilmiştir.
+   ![Ekran görüntüsü 2024-07-16 195040](https://github.com/user-attachments/assets/56049dcd-b437-4297-8259-549424c74b95)
+ - Level design ilk tasarımı yapıldı.
+- **Sprint Retrospective**
+ - Takım içi iletişim ve işbirliği artırılacak, böylece daha verimli bir çalışma ortamı sağlanacak.
+ - Kod yazma sürecinin ilk aşamaları başarılı geçti ancak bazı küçük hatalar ve iyileştirme alanları belirlendi.
+ - Tüm oyun seviyelerinin tasarımını tamamlamak.
+ - Daha fazla test ve geri bildirim almak için oyun içi testleri genişletmek. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
   ---
 
   # Sprint 3
