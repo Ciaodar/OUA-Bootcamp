@@ -66,6 +66,9 @@ https://trello.com/b/gmwf2keU
 
 - **Sprint 2 Board Güncellemesi**:
 
+  ![Uploading Ekran görüntüsü 2024-07-21 223033.png…]()
+
+
 - **Sprint Review**:
  - Takım üyelerine görev dağılımı yapılmıştır.
  - Oyun hikayesi tamamen tamamlandı. Hikaye tüm takım üyeleri tarafından onaylanmıştır.
