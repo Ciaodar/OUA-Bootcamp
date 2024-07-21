@@ -36,7 +36,7 @@ https://trello.com/b/gmwf2keU
 
 - **Daily Scrum**: İletişim Discord üzerinden sağlanmıştır. Burada dört metin kanalı kurulmuştur.
 
-![Ekran görüntüsü 2024-07-11 022902](https://github.com/Ciaodar/OUA-Bootcamp/assets/154469323/fb04d0fd-fd2b-4f38-90fc-2f5709fe1539)
+ [Ekran görüntüsü 2024-07-11 022902](https://github.com/Ciaodar/OUA-Bootcamp/assets/154469323/fb04d0fd-fd2b-4f38-90fc-2f5709fe1539)
 
 - **Sprint Board Güncellemesi**: Sprint Board Ekran Görüntüleri
 
