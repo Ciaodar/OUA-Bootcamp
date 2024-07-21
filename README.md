@@ -66,7 +66,17 @@ https://trello.com/b/gmwf2keU
 
 - **Sprint 2 Board Güncellemesi**:
 
-  ![Uploading Ekran görüntüsü 2024-07-21 223033.png…]()
+  ![Ekran görüntüsü 2024-07-21 223033](https://github.com/user-attachments/assets/97f92e71-01b1-464e-a6b8-41b3bc271406)
+
+  - **Level Design Durumu**
+ 
+    ![m4 games](https://github.com/user-attachments/assets/9b1ac75a-e61d-4aaf-a83d-adc8938dc4ca)
+
+    ![sahne](https://github.com/user-attachments/assets/a492ed1a-5e93-4f58-8742-3130cda3d2f7)
+
+    ![Ekran görüntüsü 2024-07-22 002919](https://github.com/user-attachments/assets/4075e71e-3dc6-4c9f-b33b-05ee58f6c754)
+
+
 
 
 - **Sprint Review**:
@@ -74,8 +84,10 @@ https://trello.com/b/gmwf2keU
   - Oyun hikayesi tamamen tamamlandı. Hikaye tüm takım üyeleri tarafından onaylanmıştır.
   - Oyun için gerekli tüm ana mekaniklere karar verilmiş.
   - Oyunun kod yazma süreci başlamıştır. Belirli oyun mekanikleri ve kodlanmış ve test edilmiştir.
+  
    ![Ekran görüntüsü 2024-07-16 195040](https://github.com/user-attachments/assets/56049dcd-b437-4297-8259-549424c74b95)
   - Level design ilk tasarımı yapıldı.
+
 - **Sprint Retrospective**
   - Takım içi iletişim ve işbirliği artırılacak, böylece daha verimli bir çalışma ortamı sağlanacak.
   - Kod yazma sürecinin ilk aşamaları başarılı geçti ancak bazı küçük hatalar ve iyileştirme alanları belirlendi.
