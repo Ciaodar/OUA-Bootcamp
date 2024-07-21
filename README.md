@@ -70,17 +70,17 @@ https://trello.com/b/gmwf2keU
 
 
 - **Sprint Review**:
- - Takım üyelerine görev dağılımı yapılmıştır.
- - Oyun hikayesi tamamen tamamlandı. Hikaye tüm takım üyeleri tarafından onaylanmıştır.
- - Oyun için gerekli tüm ana mekaniklere karar verilmiş.
- - Oyunun kod yazma süreci başlamıştır. Belirli oyun mekanikleri ve kodlanmış ve test edilmiştir.
+  - Takım üyelerine görev dağılımı yapılmıştır.
+  - Oyun hikayesi tamamen tamamlandı. Hikaye tüm takım üyeleri tarafından onaylanmıştır.
+  - Oyun için gerekli tüm ana mekaniklere karar verilmiş.
+  - Oyunun kod yazma süreci başlamıştır. Belirli oyun mekanikleri ve kodlanmış ve test edilmiştir.
    ![Ekran görüntüsü 2024-07-16 195040](https://github.com/user-attachments/assets/56049dcd-b437-4297-8259-549424c74b95)
- - Level design ilk tasarımı yapıldı.
+  - Level design ilk tasarımı yapıldı.
 - **Sprint Retrospective**
- - Takım içi iletişim ve işbirliği artırılacak, böylece daha verimli bir çalışma ortamı sağlanacak.
- - Kod yazma sürecinin ilk aşamaları başarılı geçti ancak bazı küçük hatalar ve iyileştirme alanları belirlendi.
- - Tüm oyun seviyelerinin tasarımını tamamlamak.
- - Daha fazla test ve geri bildirim almak için oyun içi testleri genişletmek. 
+  - Takım içi iletişim ve işbirliği artırılacak, böylece daha verimli bir çalışma ortamı sağlanacak.
+  - Kod yazma sürecinin ilk aşamaları başarılı geçti ancak bazı küçük hatalar ve iyileştirme alanları belirlendi.
+  - Tüm oyun seviyelerinin tasarımını tamamlamak.
+  - Daha fazla test ve geri bildirim almak için oyun içi testleri genişletmek. 
 
  
 
