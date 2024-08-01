@@ -13,7 +13,7 @@ public class NewSceneLoader : MonoBehaviour
             LoadNextScene();
         }
     }
-    void LoadNextScene()
+    public static void LoadNextScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }

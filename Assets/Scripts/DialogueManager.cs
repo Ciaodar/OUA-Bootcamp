@@ -16,7 +16,7 @@ public class DialogueManager : MonoBehaviour {
 	public Animator portraitAnimator;
     private AudioManager audioManager;
     public AudioMixer audioMixer;
-
+    private bool nextSceneAfterDialogue = false;
     private GameObject player;
 
 	private Queue<string> sentences;
@@ -41,6 +41,7 @@ public class DialogueManager : MonoBehaviour {
 
 	public void StartDialogue (Dialogue dialogue)
 	{
+		nextSceneAfterDialogue = dialogue.nextScene;
 		player.GetComponent<ControlPlayer>().StopPlayer();
 		boxAnimator.SetBool("isOpen", true);
 		portraitAnimator.SetBool("isOpen", true);
@@ -96,6 +97,12 @@ public class DialogueManager : MonoBehaviour {
 		player.GetComponent<ControlPlayer>().enabled = true;
 		boxAnimator.SetBool("isOpen", false);
 		portraitAnimator.SetBool("isOpen", false);
+		if (nextSceneAfterDialogue)
+		{
+			NewSceneLoader.LoadNextScene();
+			nextSceneAfterDialogue = false;
+		}
+
 	}
 
 }

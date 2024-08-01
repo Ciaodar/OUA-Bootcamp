@@ -293,13 +293,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Opppie
+    name: Thaddeus
     sentences:
     - "\u0130\u015Fte orada,"
-    - Demirci Volvir.
+    - Lanet Efendisi Thallid.
     - "Ku\u015Fanm\u0131\u015F ve beni kar\u015F\u0131lamay\u0131 bekliyor."
-    - "Ancak onu \xF6ld\xFCremem. ama ondan ka\xE7amam da."
-    - "Tek se\xE7imim onu yorulana kadar h\u0131rpalamak."
+    - "Benim gelece\u011Fimi bilmesi korkutucu."
+    - "Onu yenemeyece\u011Fimi biliyorum. "
+    - "Ancak onu \xE7ekilmeye zorlamal\u0131y\u0131m."
+    nextScene: 0
 --- !u!1 &235416019
 GameObject:
   m_ObjectHideFlags: 0
@@ -7531,10 +7533,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Oppie
+    name: Thaddeus
     sentences:
-    - Dinlen Volvir.
-    - "K\xF6y\xFCm\xFCz\xFC kurtarmaya gidiyorum!"
+    - KAZANDIM THALLID
+    - "BU d\xFCnyay\u0131 rahat b\u0131rak art\u0131k!"
+    nextScene: 1
 --- !u!4 &3962544463164448656
 Transform:
   m_ObjectHideFlags: 0

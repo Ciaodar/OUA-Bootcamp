@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: ab92f26fdbf3c8844b59d67ce8265dbc
   - enabled: 1
+    path: Assets/Scenes/#Magara.unity
+    guid: 6ecb02005c2c9ec4e9b033b94ddcfe5c
+  - enabled: 1
     path: Assets/Scenes/0.unity
     guid: 5cac8b470ebb2d3478766d4cdc88fdc6
   - enabled: 1

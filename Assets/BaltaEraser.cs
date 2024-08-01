@@ -16,7 +16,7 @@ public class BaltaEraser : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
-            StartCoroutine(NewSceneLoader.NextSceneAfterDialogue(dialogueTrigger, 2f));
+            dialogueTrigger.TriggerDialogue();
         }
     }
 }

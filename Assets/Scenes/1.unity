@@ -171,7 +171,8 @@ MonoBehaviour:
     sentences:
     - "Bu a\u011Fac\u0131 sevdim."
     - "Ama oradaki ahali pek dost canl\u0131s\u0131 g\xF6r\xFCnm\xFCyor."
-    - " Bu k\xF6ye bir \u015Fey olmu\u015F."
+    - "Thallid hepsinin beynini y\u0131kam\u0131\u015F olmal\u0131."
+    nextScene: 0
 --- !u!61 &101409826
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1366,6 +1367,162 @@ PrefabInstance:
       addedObject: {fileID: 617786395}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d33e7603b42c037479197ea1077d5809, type: 3}
+--- !u!1 &425751558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 425751563}
+  - component: {fileID: 425751562}
+  - component: {fileID: 425751561}
+  - component: {fileID: 425751560}
+  - component: {fileID: 425751559}
+  m_Layer: 0
+  m_Name: StartingDialogue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &425751559
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425751558}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.9133034, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.9946518, y: 1}
+  m_EdgeRadius: 0
+--- !u!61 &425751560
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425751558}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.026172638, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.0523453, y: 1}
+  m_EdgeRadius: 0
+--- !u!114 &425751561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425751558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e1dbbd34903565438cbd107530614a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &425751562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425751558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23dadc2bef9f8954390bcdefd5c65c59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: Thaddeus
+    sentences:
+    - "B\xFCy\xFCc\xFCden \xF6\u011Frendi\u011Fim yetenekleri kullanma vakti"
+    - "Yine de, m\xFCmk\xFCnse onlar\u0131 \xF6ld\xFCrmemeliyim."
+    - Thallid'e hizmet ediyor da olsalar, onlar halk.
+    nextScene: 0
+--- !u!4 &425751563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425751558}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.26, y: -2.29, z: -0.21965666}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &554032074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1714,8 +1871,9 @@ MonoBehaviour:
     name: Oppie
     sentences:
     - "Onlar\u0131 atlatt\u0131\u011F\u0131m iyi oldu."
-    - "K\xF6y\xFCm Icard'a ne oldu\u011Funu \xE7\xF6zmem gerek!"
-    - "Hangi k\xF6t\xFCl\xFCk onlar\u0131 ele ge\xE7irdiyse bulup def edece\u011Fim!"
+    - "Merdivenli K\xF6y\xFC Thallid'e ilk kar\u015F\u0131 sald\u0131r\u0131s\u0131n\u0131
+      yap\u0131yor."
+    nextScene: 1
 --- !u!61 &673612632
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3656,7 +3814,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5891693623233976497, guid: 55327a178951ad94aaf1f5e8707a5cd4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.24
+      value: -5.2
       objectReference: {fileID: 0}
     - target: {fileID: 5891693623233976497, guid: 55327a178951ad94aaf1f5e8707a5cd4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3908,10 +4066,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Oppie
+    name: Thaddeus
     sentences:
-    - "Lan k\xF6ye ne oldu?"
-    - Buralar hep dutluktu.
+    - "Bu ev ge\xE7idi hep garip yerlere a\xE7\u0131l\u0131yor."
+    - "Neden kimse bu evin birden ortaya \xE7\u0131kmas\u0131ndan \u015F\xFCphe etmiyor
+      acaba?"
+    nextScene: 0
 --- !u!1839735485 &408207423561940650
 Tilemap:
   m_ObjectHideFlags: 0
@@ -13511,3 +13671,4 @@ SceneRoots:
   - {fileID: 101409827}
   - {fileID: 673612633}
   - {fileID: 1240182360}
+  - {fileID: 425751563}
