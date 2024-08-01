@@ -17,6 +17,12 @@ public class NewSceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+    public static IEnumerator NextSceneAfterDialogue(DialogueTrigger dialogueTrigger, float waitseconds = 1f)
+    {
+        dialogueTrigger.TriggerDialogue();
+        yield return new WaitForSeconds(waitseconds);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
     public static IEnumerator YouLostScene()
     {
         yield return new WaitForSeconds(1);
