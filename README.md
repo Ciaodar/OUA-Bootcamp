@@ -11,7 +11,7 @@ M4 Games
 Thaddeus Stone
 
 ## Oyun Açıklaması
-Thaddeus Stone, İskoçya'nın derin ormanlarında gizemli bir mağaraya giren ve aniden ortaçağın kalabalık bir pazar yerine ışınlanmış bir arkeoloğun hikayesini anlatıyor. Arkeolog, tekrar mağaranın girişine dönmek için efsanevi savaş sınırlarını aşması gerekli ve bu yüzden arkeolog bir maceraya atılmak zorundadır.
+Oyuncu gelecekte bir mağarayı araştırırken antik yazılar yazan bir taştan çıkardığı dev bir balta antik bir geçidi çalıştırır. Bu geçit onu geçmişe alt bir evrene gönderir. Mağarda bir gariplik olduğunu fark eden Thaddeus dışarı çıkar, ortamın değiştiğini ve geçmişe dair izlerin belirginleştiğini fark eder. Ardından geri mağaraya girdiğinde ise çok geçtir. Taş kaybolmuştur. 
 
 ## Oyun Özellikleri
 - ***2D***
