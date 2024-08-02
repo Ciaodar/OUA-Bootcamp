@@ -3,23 +3,28 @@ M4 Games
 
 ## Takım Üyeleri
 - ***Merve Ekici*** - Scrum Master
+- ***Metehan Çavdar*** - Product Owner - Developer  
 - ***Mehmet Ali Canbal*** - Tasarımcı
 - ***Mert Yaşar Barlak*** - Developer
-- ***Metehan Çavdar*** - Developer
 
 ## Oyun İsmi
 Thaddeus Stone
 
 ## Oyun Açıklaması
-Oyuncu gelecekte bir mağarayı araştırırken antik yazılar yazan bir taştan çıkardığı dev bir balta antik bir geçidi çalıştırır. Bu geçit onu geçmişe alt bir evrene gönderir. Mağarda bir gariplik olduğunu fark eden Thaddeus dışarı çıkar, ortamın değiştiğini ve geçmişe dair izlerin belirginleştiğini fark eder. Ardından geri mağaraya girdiğinde ise çok geçtir. Taş kaybolmuştur. 
+Thaddeus Stone. Arkeolog Thaddeus, gelecekte bir mağarayı araştırırken antik yazılar içeren bir taştan dev bir balta çıkarır ve antik bir geçidi aktif eder. Bu geçit, onu geçmişe ve alt bir evrene gönderir. Mağaradaki tuhaflığı fark eden Thaddeus, dışarı çıkınca ortamın ve geçmişin izlerinin belirginleştiğini görür. Girdiği alt evrende halka zulmeden Thallid ile savaşır.
+
 
 ## Oyun Özellikleri
 - ***2D***
-- ***Çoklu platform desteği***
-- ***Çoklu oyuncu modları***
+- ***Aksiyon***
+- ***Savaş Mekanikleri: Saldırı, savunma, savuşturma, can ve postür ölçümü; öldürme veya paralyze etme.***
+- ***Parkur ve Puzzle: HiderHandler, Chest ve ChestHandler, Checkpoint scriptleri.***
+- ***Benzersiz Mekanik: SwordClash - Kılıç çatışması ile sakinlik barı dolunca oyuncu kazanır.***
+- ***Diyalog Sistemi: DialogueManager, Dialogue, DialogueTrigger, DialogueOnCollide, DialogueOnStart.***
+- ***Ses Sistemi: AudioManager.***
 
 ## Hedef Kitle
-- ***Fantastik, macera sevenler***
+- ***Aksiyon, macera sevenler***
 - ***Her yaştan oyuncular***
 - ***RPG sunucuları***
 
@@ -57,8 +62,9 @@ https://trello.com/b/gmwf2keU
   ---
 
   # Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint sonunda hedef puan 100 tamamlanan puan ise 80'dir.
 
-- **Sprint Notları**: Ekip içerinde etkili iletişim ve iş birliği sağlanamıyor. Toplantıların iptal edilmesi ve bilgi paylaşmının eksik yapılmasından kaynaklı hedeflerin yarım kalıyor. Bu sprint sonunda alınan puan 180
+- **Sprint Notları**: Ekip içerinde etkili iletişim ve iş birliği sağlanamıyor. Toplantıların iptal edilmesi ve bilgi paylaşmının eksik yapılmasından kaynaklı hedeflerin yarım kalıyor. Bu sprint sonunda alınan puan 80
  
 - **Daily Scrum**: Daily Scrum toplantıları Discord üzerinden devam etmiştir. Görev dağılımları net olarak belirlenmiştir. Haftada iki gün yapılan bu toplantılarda oyun mantığı, mekanikler ve tasarım üzerine odaklanılmıştır. Ücretsiz varlıkların (assets) kullanımına karar verilmiş ve bu varlıkların oyunun hikayesine uyumlu olup olmadığına dikkat edilerek seçilmiştir. Seçilen assetsler için dicorda kanal oluşturuldu. Kod yazma süreci başlamıştır.
 
@@ -70,7 +76,7 @@ https://trello.com/b/gmwf2keU
 
   - **Level Design Durumu**
  
-    ![m4 games](https://github.com/user-attachments/assets/9b1ac75a-e61d-4aaf-a83d-adc8938dc4ca)
+    ![M4 GAMES (1)](https://github.com/user-attachments/assets/dfc1b64b-9ee9-41fc-8cf2-88bad4fe9de0)
 
     ![sahne](https://github.com/user-attachments/assets/a492ed1a-5e93-4f58-8742-3130cda3d2f7)
 
@@ -96,18 +102,47 @@ https://trello.com/b/gmwf2keU
 
  
 
+   # Sprint 3
+  - **Puan**: 100
+    
+  - **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint sonunda hedeflenen puana ulaşıldı. Tüm görevler başarıyla tamamlandı ve önceki sprintlerdeki eksiklikler giderildi. İletişim ve işbirliği arttırılarak verimlilik sağlandı.
+
+  - **Daily Scrum**: Mehmet level design ilk aşamasına başladı daha sonra Metehan ufak iyileştirmeler yaparak level design görevleri tamamlanmış oldu. Metehan kalan diyalog sistemlerini entegre edip tüm diyalogları test etti. Mert ve Metehan mekaniklerin son iyileştirmelerini yaptı. İLetişim en başından itibaren discord üzerinden sağlandı.
+
+![Ekran görüntüsü 2024-08-02 235600](https://github.com/user-attachments/assets/8e627b2c-6c68-4435-99e8-5c9b29af3ba6)
+
+![Ekran görüntüsü 2024-08-02 235623](https://github.com/user-attachments/assets/4ca60367-a85c-4904-b62d-507568673f9c)
+
+ - **Sprint 2 Board Güncellemesi**:
+   
+ ![Ekran görüntüsü 2024-08-03 001230](https://github.com/user-attachments/assets/43d183c6-cc8b-42c8-9e44-be65d97ece74)
 
 
 
+ - **Level Design Durumu**
+
+   ![Ekran görüntüsü 2024-08-02 014925](https://github.com/user-attachments/assets/35182e13-bbd4-4e47-945f-5c1e576e6a77)
+
+   ![Ekran görüntüsü 2024-08-02 022857](https://github.com/user-attachments/assets/91b5d390-6734-4a1a-8550-50ab72e8a647)
+
+   ![Ekran görüntüsü 2024-08-02 021019](https://github.com/user-attachments/assets/14d8880d-b946-49ec-b12c-59ed46bf65d3)
 
 
+- **Sprint Review**:
+    - Son sprintte, tüm hedeflerimiz başarıyla tamamlanmış ve projeyi planladığımız şekilde bitirmiş bulunmaktayız.
+    - Tamamlanması gereken 100 puanlık backlog puanı tamamlanmıştır.
+    - Level design, diyalog sistemi ve performans optimizasyonları tamamlandı.
+    - Bu sprint review, projemizin genel başarısını ve her bir takım üyesinin önemli katkılarını özetlemektedir. Projemizi başarıyla tamamladığımız için tüm ekip üyelerini tebrik ederiz.
+    - Sprint Review katılımcıları: Merve Ekici, Mehmet Ali Canbal, Metehan Çavdar, Mert Yaşar Barlak
 
+- **Sprint Retrospective**
+    - Hedefler başarıyla tamamlandı.
+    - İşbirliği ve iletişim iyiydi, düzenli kontrollerle ilerleme sağlandı.
+    - İkinci sprintteki iletişim aksaklıkları level design sürecini yavaşlattı ama sonuç yine iyiydi.
+    - Düzenli ve etkili iletişimin projelerin zamanında ve başarılı tamamlanmasında kritik önemde olduğunu öğrendik.
+     
+       
+    
+   
 
-
-
-
-  ---
-
-  # Sprint 3
-  
 
