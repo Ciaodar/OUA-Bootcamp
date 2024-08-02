@@ -107,7 +107,7 @@ https://trello.com/b/gmwf2keU
     
   - **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint sonunda hedeflenen puana ulaşıldı. Tüm görevler başarıyla tamamlandı ve önceki sprintlerdeki eksiklikler giderildi. İletişim ve işbirliği arttırılarak verimlilik sağlandı.
 
-  - **Daily Scrum**: Mehmet level design ilk aşamasına başladı daha sonra Metehan ufak iyileştirmeler yaparak level design görevleri tamamlanmış oldu. Metehan kalan diyalog sistemlerini entegre edip tüm diyalogları test etti. Mert ve Metehan mekaniklerin son iyileştirmelerini yaptı. İLetişim en başından itibaren discord üzerinden sağlandı.
+  - **Daily Scrum**: Mehmet level design ilk aşamasına başladı daha sonra Metehan ufak iyileştirmeler yaparak level design görevleri tamamlanmış oldu. Metehan kalan diyalog sistemlerini entegre edip tüm diyalogları test etti. Mert ve Metehan mekaniklerin son iyileştirmelerini yaptı. İletişim en başından itibaren discord üzerinden sağlandı.
 
 ![Ekran görüntüsü 2024-08-02 235600](https://github.com/user-attachments/assets/8e627b2c-6c68-4435-99e8-5c9b29af3ba6)
 
